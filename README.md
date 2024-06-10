@@ -19,7 +19,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/Sandradiotech/prompts-Ebook_Carros_Autonomos/main/output/ebook%20-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="Output" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
