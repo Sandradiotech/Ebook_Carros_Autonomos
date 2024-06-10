@@ -1,6 +1,5 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+ <a href="https://github.com/Sandradiotech/Ebook_Carros_Autonomos/Assets/">
+
 
 
 <p align="center">
